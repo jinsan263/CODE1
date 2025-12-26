@@ -7,7 +7,7 @@ Repo này bao gồm 3 file:
 - File: Khai phá và PTDL lớn 2.ipynb
 - Dữ liệu: Sample - Superstore
   
-## CODE2 – Mô hình Machine Learning với Spark
+## CODE2 – Xây dựng mô hình trên Apache Spark
 - Môi trường: PyCharm
 - Công nghệ: PySpark
 - File: APACHE SPARK.py
